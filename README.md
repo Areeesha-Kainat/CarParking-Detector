@@ -15,4 +15,4 @@ A **computer vision-based parking space detection** project using **OpenCV** and
 - **Pickle (for saving data)**
 - **Matplotlib (optional visualization)**
 
-## 📂 Project Structure
+
